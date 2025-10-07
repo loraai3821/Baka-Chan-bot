@@ -11,7 +11,7 @@ module.exports = {
     longDescription: {
       en: "Mention a user using their UID or link",
     },
-    category: "tools",
+    category: "box chat",
     guide: {
       en: "{p}mention <uid/link> [text]",
       
