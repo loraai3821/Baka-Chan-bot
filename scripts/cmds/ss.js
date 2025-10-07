@@ -3,7 +3,7 @@ config: {
 name: "ss",
 author: "Tawsif",
 role: 0,
-category: "Image"
+category: "image"
 },
 onStart: async function ({ message, args}) {
 
