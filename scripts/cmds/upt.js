@@ -14,7 +14,7 @@ module.exports = {
     longDescription: {
       en: "Shows bot uptime, total users, total threads, RAM, CPU, Node version, platform, and disk usage."
     },
-    category: "system",
+    category: "info",
     guide: {
       en: "Use {p}upt to check bot and system status."
     }
