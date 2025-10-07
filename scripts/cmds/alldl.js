@@ -18,7 +18,7 @@ module.exports = {
     description: {
       en: "Download video from TikTok, Facebook, Instagram, YouTube, Imgur, and more.",
     },
-    category: "MEDIA",
+    category: "media",
     guide: {
       en: "[video_link]",
     },
