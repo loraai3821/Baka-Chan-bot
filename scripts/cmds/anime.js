@@ -16,7 +16,7 @@ module.exports = {
     longDescription: {
       en: "Generate an anime style image from a text prompt using SupAnime API"
     },
-    category: "ai-image",
+    category: "image",
     guide: {
       en: "{pn} dog\n{pn} girl with sword"
     }
