@@ -14,7 +14,7 @@ module.exports = {
     longDescription: {
       en: "Shows CPU, RAM, disk usage, Node version, platform, and system uptime."
     },
-    category: "system",
+    category: "info",
     guide: {
       en: "Use {p}system to check system information."
     }
