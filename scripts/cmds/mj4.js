@@ -15,7 +15,7 @@ module.exports = {
     author: "Farhan",
     role: 0,
     shortDescription: "Generate image via mj-4 API",
-    category: "IMAGE",
+    category: "ai",
     guide: "{pn} <prompt> — e.g. mj4 a futuristic city skyline"
   },
 
