@@ -11,7 +11,7 @@ module.exports = {
     countDown: 5,
     shortDescription: "Search YouTube videos",
     longDescription: "Search YouTube using sus-apis and get the top result with thumbnail & link.",
-    category: "search",
+    category: "media",
     guide: {
       en: "{p}ytb1 <video title>"
     }
