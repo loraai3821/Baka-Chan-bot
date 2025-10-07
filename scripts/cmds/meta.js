@@ -15,7 +15,7 @@ config:{
     role: 0,
     shortDescription: "photo genarate",
     longDescription: "Photo genarate from meta ai",
-    category: "imagination",
+    category: "ai",
     guide: {
       en: "{pn} [prompt]"
     }
